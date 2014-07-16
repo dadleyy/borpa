@@ -7,7 +7,6 @@ test-results.xml
 /obj
 /node_modules
 /bower_components
-/public/index.html
 /public/js
 /public/css
 /public/fonts

@@ -1,0 +1,23 @@
+{
+  "name": "borpa",
+  "version": "0.0.1",
+  "authors": [
+    "Danny Hadley <danny@dadleyy.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "~2.1.14"
+  },
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "underscore": "~1.6.0",
+    "jquery": "~2.1.1"
+  }
+}
